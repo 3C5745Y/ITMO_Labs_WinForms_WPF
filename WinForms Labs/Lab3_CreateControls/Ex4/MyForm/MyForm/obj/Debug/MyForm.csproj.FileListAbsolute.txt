@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\bin\Debug\MyForm.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\bin\Debug\MyForm.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\bin\Debug\MyForm.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.UserControlForm.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex4\MyForm\MyForm\obj\Debug\MyForm.Form1.resources

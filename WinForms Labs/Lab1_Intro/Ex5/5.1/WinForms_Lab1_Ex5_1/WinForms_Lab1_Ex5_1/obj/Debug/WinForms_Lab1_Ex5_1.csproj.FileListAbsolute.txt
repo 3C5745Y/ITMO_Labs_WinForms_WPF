@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\bin\Debug\WinForms_Lab1_Ex5_1.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\bin\Debug\WinForms_Lab1_Ex5_1.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\bin\Debug\WinForms_Lab1_Ex5_1.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.EllipseForm.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex5\5.1\WinForms_Lab1_Ex5_1\WinForms_Lab1_Ex5_1\obj\Debug\WinForms_Lab1_Ex5_1.pdb

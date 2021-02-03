@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\bin\Debug\Lab2_Ex5_WinContainer.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\bin\Debug\Lab2_Ex5_WinContainer.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\bin\Debug\Lab2_Ex5_WinContainer.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.Form1.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex5\Lab2_Ex5_WinContainer\Lab2_Ex5_WinContainer\obj\Debug\Lab2_Ex5_WinContainer.pdb

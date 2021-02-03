@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\bin\Debug\NCommand.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\bin\Debug\NCommand.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\bin\Debug\NCommand.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.lref
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.g.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice3_Command\Ex1\NCommand\NCommand\obj\Debug\NCommand.pdb

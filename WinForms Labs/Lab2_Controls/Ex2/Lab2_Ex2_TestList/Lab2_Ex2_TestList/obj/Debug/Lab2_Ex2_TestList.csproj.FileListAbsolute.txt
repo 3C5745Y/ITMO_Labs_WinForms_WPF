@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\bin\Debug\Lab2_Ex2_TestList.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\bin\Debug\Lab2_Ex2_TestList.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\bin\Debug\Lab2_Ex2_TestList.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.Form1.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex2\Lab2_Ex2_TestList\Lab2_Ex2_TestList\obj\Debug\Lab2_Ex2_TestList.pdb

@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\bin\Debug\ITMO_WinForms_Lab1_Ex1.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\bin\Debug\ITMO_WinForms_Lab1_Ex1.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\bin\Debug\ITMO_WinForms_Lab1_Ex1.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.Form1.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab1_Intro\Ex1\ITMO_WinForms_Lab1_Ex1\ITMO_WinForms_Lab1_Ex1\obj\Debug\ITMO_WinForms_Lab1_Ex1.pdb

@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\bin\Debug\Lab4_Ex4_ModelessWindows.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\bin\Debug\Lab4_Ex4_ModelessWindows.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\bin\Debug\Lab4_Ex4_ModelessWindows.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.FirstForm.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.SecondForm.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab4_Dialogues\Ex4\Lab4_Ex4_ModelessWindows\Lab4_Ex4_ModelessWindows\obj\Debug\Lab4_Ex4_ModelessWindows.pdb

@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\bin\Debug\WinTimer2.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab3_CreateControls\Ex2\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Form1.resources

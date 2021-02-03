@@ -1,0 +1,12 @@
+﻿Calculator ver. 1.0.0.0
+
+Supported operations:
+- Standard view
+	Addition,
+	Subtraction,
+	Multiplication,
+	Division,
+- Scientific view
+	Power,
+	Factorial,
+	Quadratic Equations,

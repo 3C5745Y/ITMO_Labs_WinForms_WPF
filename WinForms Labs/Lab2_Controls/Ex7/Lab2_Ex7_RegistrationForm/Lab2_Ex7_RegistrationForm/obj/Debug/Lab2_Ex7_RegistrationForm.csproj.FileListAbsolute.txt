@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\bin\Debug\Lab2_Ex7_RegistrationForm.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\bin\Debug\Lab2_Ex7_RegistrationForm.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\bin\Debug\Lab2_Ex7_RegistrationForm.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.Form1.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex7\Lab2_Ex7_RegistrationForm\Lab2_Ex7_RegistrationForm\obj\Debug\Lab2_Ex7_RegistrationForm.pdb

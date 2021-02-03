@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\bin\Debug\BiblWorm.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\bin\Debug\BiblWorm.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex6\BiblWorm\BiblWorm\obj\Debug\BiblWorm.pdb

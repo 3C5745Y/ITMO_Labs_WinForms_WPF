@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\bin\Debug\Lab2_Ex1_WinQuestion.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\bin\Debug\Lab2_Ex1_WinQuestion.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\bin\Debug\Lab2_Ex1_WinQuestion.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.Form1.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WinForms Labs\Lab2_Controls\Ex1\Lab2_Ex1_WinQuestion\Lab2_Ex1_WinQuestion\obj\Debug\Lab2_Ex1_WinQuestion.pdb

@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\bin\Debug\UserIn1.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\bin\Debug\UserIn1.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\bin\Debug\UserIn1.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1_MarkupCompile.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1_MarkupCompile.lref
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.g.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice4_UserInterface\Ex1\UserIn1\UserIn1\obj\Debug\UserIn1.pdb

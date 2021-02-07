@@ -8,8 +8,8 @@ namespace Calculator
         {
             if (a == 0)
             {
-                roots = new double[1] { -c / b };
-                return 1;
+                roots = new double[0];
+                return 0;
             }
 
             var d = Discriminant(a, b, c);

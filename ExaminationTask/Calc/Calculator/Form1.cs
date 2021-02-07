@@ -14,50 +14,49 @@ namespace Calculator
 
     public partial class Form1 : Form
     {
-        private CalculatorView _calculatorView;
-        private string _currentValue;
+        private CalculatorView calculatorView;
+        private string currentValue;
 
         //memory
-        bool _hasMemory;
-        Operation _operation;
-        double _firstOperand;
+        bool hasMemory;
+        Operation operation;
+        double firstOperand;
 
         public Form1()
         {
             InitializeComponent();
 
-            _currentValue = "0";
+            currentValue = "0";
             InvalidateResultTextBox();
 
-            _calculatorView = CalculatorView.Standard;
+            calculatorView = CalculatorView.Standard;
             InvalidateCalculatorView();
         }
 
         private void InvalidateResultTextBox()
         {
-            ResultTextBox.Text = _currentValue;
+            ResultTextBox.Text = currentValue;
         }
         private void InvalidateCalculatorView()
         {
-            if (_calculatorView == CalculatorView.Scientific)
+            if (calculatorView == CalculatorView.Scientific)
                 ScientificPanel.Visible = true;
             else
                 ScientificPanel.Visible = false;
         }
-
         private void MemorizeNumber()
         {
-            double number = double.Parse(_currentValue);
-            _firstOperand = number;
+            double number = double.Parse(currentValue);
+            firstOperand = number;
 
-            _hasMemory = true;
+            hasMemory = true;
         }
         private void ResetMemory()
         {
-            _firstOperand = double.NaN;
-            _currentValue = "0";
+            firstOperand = double.NaN;
+            currentValue = "0";
 
-            _hasMemory = false;
+            hasMemory = false;
         }
 
         #region Num & other input buttons
@@ -66,54 +65,51 @@ namespace Calculator
         {
             int digit = int.Parse((sender as Button).Text);
 
-            _currentValue = CalculatorInput.TryAddDigit(_currentValue, digit);
+            currentValue = CalculatorInput.TryAddDigit(currentValue, digit);
 
             InvalidateResultTextBox();
         }
-
         private void CancelButton_Click(object sender, EventArgs e)
         {
-            _currentValue = "0";
+            currentValue = "0";
 
             ResetMemory();
 
             InvalidateResultTextBox();
         }
-
         private void ChangeSignButton_Click(object sender, EventArgs e)
         {
-            double number = double.Parse(_currentValue);
+            double number = double.Parse(currentValue);
             number = -number;
-            _currentValue = number.ToString();
+            currentValue = number.ToString();
 
             InvalidateResultTextBox();
         }
-
         private void DotButton_Click(object sender, EventArgs e)
         {
-            _currentValue = CalculatorInput.TryAddDecimalSeparator(_currentValue);
+            currentValue = CalculatorInput.TryAddDecimalSeparator(currentValue);
 
             InvalidateResultTextBox();
         }
-
+        //кнопка "="    
         private void CalculateButton_Click(object sender, EventArgs e)
         {
-            if (!_hasMemory)
+            if (!hasMemory)
                 return;
 
-            var number = double.Parse(_currentValue);
+            var number = double.Parse(currentValue);
             bool error = false;
             double result = double.NaN;
-            switch (_operation)
+            switch (operation)
             {
                 case Operation.Addition:
-                    result = _firstOperand + number;
+                    result = firstOperand + number;
                     break;
                 case Operation.Subrtaction:
-                    result = _firstOperand - number;
+                    result = firstOperand - number;
                     break;
                 case Operation.Multiplication:
-                    result = _firstOperand * number;
+                    result = firstOperand * number;
                     break;
                 case Operation.Division:
                     if (number == 0)
@@ -123,20 +119,20 @@ namespace Calculator
                     }
                     else
                     {
-                        result = _firstOperand / number;
+                        result = firstOperand / number;
                     }
                     break;
                 case Operation.Power:
-                    result = Math.Pow(_firstOperand, number);
+                    result = Math.Pow(firstOperand, number);
                     break;
             }
             if (error)
             {
-                _currentValue = "0";
+                currentValue = "0";
             }
             else
             {
-                _currentValue = "= " + result.ToString();
+                currentValue = "= " + result.ToString();
             }
 
             InvalidateResultTextBox();
@@ -146,60 +142,60 @@ namespace Calculator
         #endregion
 
         #region Binary operations
-
+      
         private void AdditionButton_Click(object sender, EventArgs e)
         {
-            if (_hasMemory)
+            if (hasMemory)
                 return;
 
             MemorizeNumber();
-            _operation = Operation.Addition;
+            operation = Operation.Addition;
 
-            _currentValue = "0";
+            currentValue = "0";
         }
-
+        
         private void SubtractionButton_Click(object sender, EventArgs e)
         {
-            if (_hasMemory)
+            if (hasMemory)
                 return;
 
             MemorizeNumber();
-            _operation = Operation.Subrtaction;
+            operation = Operation.Subrtaction;
 
-            _currentValue = "0";
+            currentValue = "0";
         }
-
+        
         private void MultiplicationButton_Click(object sender, EventArgs e)
         {
-            if (_hasMemory)
+            if (hasMemory)
                 return;
 
             MemorizeNumber();
-            _operation = Operation.Multiplication;
+            operation = Operation.Multiplication;
 
-            _currentValue = "0";
+            currentValue = "0";
         }
-
+        
         private void DivisionButton_Click(object sender, EventArgs e)
         {
-            if (_hasMemory)
+            if (hasMemory)
                 return;
            
             MemorizeNumber();
-            _operation = Operation.Division;
+            operation = Operation.Division;
             
-            _currentValue = "0";
+            currentValue = "0";
         }
-
+       
         private void PowerButton_Click(object sender, EventArgs e)
         {
-            if (_hasMemory)
+            if (hasMemory)
                 return;
 
             MemorizeNumber();
-            _operation = Operation.Power;
+            operation = Operation.Power;
 
-            _currentValue = "0";
+            currentValue = "0";
         }
 
         #endregion
@@ -213,43 +209,46 @@ namespace Calculator
 
             MessageBox.Show(helpFileText, "Calculator help");
         }
-
+        
         private void StandardToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            _calculatorView = CalculatorView.Standard;
+            calculatorView = CalculatorView.Standard;
             InvalidateCalculatorView();
         }
-
+        
         private void ScientificToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            _calculatorView = CalculatorView.Scientific;
+            calculatorView = CalculatorView.Scientific;
             InvalidateCalculatorView();
         }
         #endregion
 
         #region Unary operations
-
+        
         private void CalculatePower(double power)
         {
-            var number = double.Parse(_currentValue);
+            var number = double.Parse(currentValue);
             number = Math.Pow(number, power);
-            _currentValue = number.ToString();
+            currentValue = number.ToString();
 
             InvalidateResultTextBox();
         }
-
+        
         private void SqrtButton_Click(object sender, EventArgs e)
         {
             CalculatePower(0.5);
         }
+        
         private void SquareButton_Click(object sender, EventArgs e)
         {
             CalculatePower(2);
         }
+        
         private void ReciprocalButton_Click(object sender, EventArgs e)
         {
             CalculatePower(-1);
         }
+        
         private void CubeRootButton_Click(object sender, EventArgs e)
         {
             CalculatePower(1.0 / 3);
@@ -257,7 +256,7 @@ namespace Calculator
 
         private void FactorialButton_Click(object sender, EventArgs e)
         {
-            var number = double.Parse(_currentValue);
+            var number = double.Parse(currentValue);
 
             if (number < 0)
             {
@@ -265,7 +264,7 @@ namespace Calculator
                 return;
             }
 
-            //check if number is natural
+            //проверка на натуральное число
             int nNumber = (int)number;
             if (number - nNumber != 0)
             {
@@ -277,18 +276,18 @@ namespace Calculator
             for (int i = 1; i <= number; i++)
                 fact *= i;
 
-            _currentValue = fact.ToString();
+            currentValue = fact.ToString();
             InvalidateResultTextBox();
         }
         #endregion
-
+       
         private void QuadraticEquationButton_Click(object sender, EventArgs e)
         {
             QuadraticEquationCoefficientsForm form = new QuadraticEquationCoefficientsForm();
             form.FormClosed += Form_FormClosed;
             form.Show();
         }
-
+        //вывод результата решения уравнения в текстовое поле в виде строки с указанием значением корней уравнения
         private void Form_FormClosed(object sender, FormClosedEventArgs e)
         {
             var form = sender as QuadraticEquationCoefficientsForm;
@@ -301,7 +300,7 @@ namespace Calculator
                 QuadraticEquationSolver.Solve(coeffs[0], coeffs[1], coeffs[2],
                     out roots);
 
-                _currentValue = QuadraticEquationSolver.RootsToString(roots);
+                currentValue =  QuadraticEquationSolver.RootsToString(roots);
                 InvalidateResultTextBox();
             }
         }

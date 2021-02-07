@@ -36,5 +36,33 @@ namespace Calculator
             this.DialogResult = DialogResult.Cancel;
             this.Close();
         }
+
+        private void ATextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            char number = e.KeyChar;
+            if ((e.KeyChar <= 47 || e.KeyChar >= 58) && number != 8 && (e.KeyChar <= 39 || e.KeyChar >= 46) && number != 47 && number != 61)  
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void BTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char number = e.KeyChar;
+            if ((e.KeyChar <= 47 || e.KeyChar >= 58) && number != 8 && (e.KeyChar <= 39 || e.KeyChar >= 46) && number != 47 && number != 61)
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void CTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char number = e.KeyChar;
+            if ((e.KeyChar <= 47 || e.KeyChar >= 58) && number != 8 && (e.KeyChar <= 39 || e.KeyChar >= 46) && number != 47 && number != 61)
+            {
+                e.Handled = true;
+            }
+        }
     }
 }

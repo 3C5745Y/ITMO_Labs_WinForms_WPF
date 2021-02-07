@@ -74,6 +74,7 @@ namespace Calculator
             this.ATextBox.Name = "ATextBox";
             this.ATextBox.Size = new System.Drawing.Size(79, 20);
             this.ATextBox.TabIndex = 2;
+            this.ATextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.ATextBox_KeyPress);
             // 
             // label2
             // 
@@ -90,6 +91,7 @@ namespace Calculator
             this.BTextBox.Name = "BTextBox";
             this.BTextBox.Size = new System.Drawing.Size(79, 20);
             this.BTextBox.TabIndex = 2;
+            this.BTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.BTextBox_KeyPress);
             // 
             // label3
             // 
@@ -106,6 +108,7 @@ namespace Calculator
             this.CTextBox.Name = "CTextBox";
             this.CTextBox.Size = new System.Drawing.Size(79, 20);
             this.CTextBox.TabIndex = 2;
+            this.CTextBox.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.CTextBox_KeyPress);
             // 
             // QuadraticEquationCoefficientsForm
             // 

@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\bin\Release\DataBindingDemo.exe.config
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\bin\Release\DataBindingDemo.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\bin\Release\DataBindingDemo.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\MainWindow.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\App.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo_MarkupCompile.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo_MarkupCompile.lref
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\MainWindow.baml
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.g.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.Properties.Resources.resources
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.exe
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.pdb
+\\Mac\Home\Documents\Study\6_CSharp_WinForm_WPF\ITMO_Labs_WinForms_WPF\WPF_Labs\Practice9_DataBinding\DataBindingDemo\DataBindingDemo\obj\Release\DataBindingDemo.csprojAssemblyReference.cache
